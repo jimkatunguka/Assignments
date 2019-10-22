@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/lab2_Prob1/Class Diagram.png</name>
+			<type>1</type>
+			<location>C:/Users/jimka/Downloads/Class Diagram.png</location>
+		</link>
+	</linkedResources>
 </projectDescription>
